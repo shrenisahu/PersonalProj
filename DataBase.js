@@ -1,0 +1,1 @@
+export const data = ['a','x','c','d','e']

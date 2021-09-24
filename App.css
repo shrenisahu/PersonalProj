@@ -1,0 +1,20 @@
+.div-1{
+  background-color: rgb(0, 0, 0);
+}
+.App{
+  /* background-color: aqua; */
+}
+.div-4{
+  display: flex;
+  background-color: beige;
+}
+
+.div-2{
+  background-color: blueviolet;
+  width: 50%;
+}
+
+.div-3{
+  background-color: rgb(85, 85, 85);
+  width: 50%;
+}
